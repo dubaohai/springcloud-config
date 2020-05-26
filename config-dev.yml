@@ -1,3 +1,4 @@
 # springcloud-config
 config:
-  master branch/springcloud-config/config.dev version=1
+  info:
+    master branch/springcloud-config/config.dev version=1
